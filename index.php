@@ -14,6 +14,7 @@
 
         body{
             background-image: url(img/bg.jpg);
+            background-size: cover;
         }
         a:hover{
             color: white;
